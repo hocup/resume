@@ -1,0 +1,26 @@
+Filament Games
+Game Engineer I
+
+Worked with a broad array of languages and technologies to create educational games and experiences. 
+When working on the physics game BumperDucks, I implemented, optimized, and fine-tuned the physics simulation to deliver a deterministic and satisfying duck bumping experience. 
+In DraftingBoard, updated the UI elements and added long-requested functionality such as audio playback for elements of the tool, allowing the essay writing exercise to be accessible to more students.
+
+
+
+Otus
+Software Engineer
+
+Worked with TypeScript and Javascript to rebuild the Otus learning management platform as a single page application. Resulted in significantly reduced page load speed and smoother user experience.
+Provided guidance to more junior developers, allowing them to contribute meaningfully more quickly and with confidence.
+Handled deployments and streamlined the deployment process, to allow improvements and bug fixes to reach customers more frequently.
+Integrated a third party assessment API, widely expanding the question types and options available to teachers.
+Converted legacy assessments and student responses to the new format, preserving the question content, student outcomes and associated date for the users.
+
+
+
+AkitaBox
+Sr. Software Engineer
+
+Developed AkitaBox's first service using typescript and the Serverless framework, resulting in a simple and flexible service that performs its duties and can serve as a guide for developing future micro-services.
+Reconfigured the deployment logic of the static elements of the website, making an intermittent deployment error invisible to the user.
+Implemented client-side caching for several frequently used API endpoints, significantly reducing number of API requests in a typical user workflow.
